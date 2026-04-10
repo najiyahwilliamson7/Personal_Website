@@ -8,22 +8,22 @@ title: "Najiyah's Projects"
 <a href="https://bit.ly/info550" class="project-link">
 <div class="panel panel-default">
 <div class="panel-heading">
-<h3 class="panel-title">DATA 550 website</h3>
+<h3 class="panel-title">ToBeUpdated</h3>
 </div>
 <div class="panel-body">
-<p>A Jekyll website I built for previous iterations of this class.</p>
+<p>Description...</p>
 </div>
 </div>
 </a>
 </div>
 <div class="col-sm-6">
-<a href="https://github.com/allicodi/vaxstrat" class="project-link">
+<a href="To Be Updated">
 <div class="panel panel-default">
 <div class="panel-heading">
-<h3 class="panel-title">vaxstrat R package</h3>
+<h3 class="panel-title">ToBeUpdated</h3>
 </div>
 <div class="panel-body">
-<p>An R package for computing principal effects quantifying vaccine impact on post-infection endpoints.</p>
+<p>Description...</p>
 </div>
 </div>
 </a>
