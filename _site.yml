@@ -1,9 +1,31 @@
 name: "Najiyah's Website"
+
 navbar:
   title: "Najiyah's Website"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+  - text: Home
+    href: index.html
+    icon: fa-home
+  - text: About
+    href: about.html
+    icon: fa-book-open
+  - text: Projects
+    href: projects.html
+    icon: fa-computer
+  - text: Resume
+    href: files/Najiyah_W_Resume_March_2026.pdf
+    icon: fa-paperclip
+  right:
+  - href: https://github.com/najiyahwilliamson7
+    icon: fa-github
+
+output:
+  html_document:
+    theme: cosmo
+    css: style.css
+    includes:
+      in_header: header.html
+    
 output_dir: docs
+
+
