@@ -5,7 +5,7 @@ title: ""
 ::: {.column width="50%" style="text-align: center;"}
 
 ```{r, echo=FALSE, fig.align='center', out.width='80%'}
-knitr::include_graphics("images/IMG-4665.jpg")
+knitr::include_graphics("images/frog.jpg")
 ```
 
 ## Najiyah Williamson

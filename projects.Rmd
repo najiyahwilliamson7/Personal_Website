@@ -5,25 +5,58 @@ title: "Najiyah's Projects"
 <div class="row">
 
 <div class="col-sm-6">
-<a href="https://bit.ly/info550" class="project-link">
+<a href="files/Prenatal-Pesticide-Exposure-and-Childhood-Brain-Development.html" target="_blank" class="project-link" style="text-decoration: none;">
 <div class="panel panel-default">
 <div class="panel-heading">
-<h3 class="panel-title">ToBeUpdated</h3>
+<h3 class="panel-title">"Effects of prenatal pesticide exposure on child brain development in South Africa"</h3>
 </div>
 <div class="panel-body">
-<p>Description...</p>
+<p>This is a dashboard of my thesis work focused on environmental impacts on child development.</p>
 </div>
 </div>
 </a>
 </div>
 <div class="col-sm-6">
-<a href="To Be Updated">
+<a href="https://bios584-python-n5ni5pjgmzq7ettonhvbck.streamlit.app/">
 <div class="panel panel-default">
 <div class="panel-heading">
-<h3 class="panel-title">ToBeUpdated</h3>
+<h3 class="panel-title">Najiyah's Password Generator</h3>
 </div>
 <div class="panel-body">
-<p>Description...</p>
+<p>This is a password generator that I developed in Python using a Streamlit app. </p>
+</div>
+</div>
+</a>
+</div>
+</div>
+
+<div class="row">
+
+<div class="col-sm-6">
+<a href="https://bios584-python-je3hkpd7nsrb7zdf2qxh4c.streamlit.app/" target="_blank" class="project-link" style="text-decoration: none;">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title">Najiyah's Epidemiology Metric Report Generator</h3>
+</div>
+<div class="panel-body">
+<p>This Streamlit application calculates key epidemiological metrics, including 
+            prevalence, mortality rate, sensitivity, specificity, and predictive values. 
+            Users input population, case counts, and diagnostic test data to generate 
+            an interactive public health report.</p>
+</div>
+</div>
+</a>
+</div>
+<div class="col-sm-6">
+<a href="https://bios584-python-x4hqhdkxkj2bhmdek6mrkj.streamlit.app/">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title">Disease Spread Simulator (SIR / SIRD / SIRDV)</h3>
+</div>
+<div class="panel-body">
+<p>This interactive Streamlit application visualizes infectious disease dynamics 
+            using SIR, SIRD, and SIRDV models, allowing users to explore how transmission, 
+            recovery, vaccination, and mortality rates influence outbreak patterns.</p>
 </div>
 </div>
 </a>
