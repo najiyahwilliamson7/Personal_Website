@@ -6,9 +6,9 @@ navbar:
   - text: Home
     href: index.html
     icon: fa-home
-  - text: About
-    href: about.html
-    icon: fa-book-open
+ # - text: About
+   # href: about.html
+  #  icon: fa-book-open
   - text: Projects
     href: projects.html
     icon: fa-computer

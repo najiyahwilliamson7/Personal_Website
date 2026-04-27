@@ -14,7 +14,7 @@ knitr::include_graphics("images/frog.jpg")
 
 ::: {.column width="50%" style="text-align: left;"}
 
-Add some text here describing yourself. Add a [link](https://google.com) so we can see behavior later. 
+Najiyah is a second-year MPH student in Environmental Health and Epidemiology at Rollins School of Public Health, Emory University. She currently works as a wastewater implementation data analyst for Dr. Marlene Wolfe's lab in conjunction with WastewaterSCAN. Her previous work spans research on aquatic organisms, disease ecology, climate health, and pesticides. Her most recent notable achievement is winning the Award for Excellence in Environmental Health Research at Rollins School of Public Health. 
 
 :::
 
